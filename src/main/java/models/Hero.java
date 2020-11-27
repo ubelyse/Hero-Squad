@@ -41,4 +41,5 @@ public class Hero {
     public static Hero setUpNewHero2(){
         return new Hero("bebe",30,"dark","Light");
     }
+
 }
