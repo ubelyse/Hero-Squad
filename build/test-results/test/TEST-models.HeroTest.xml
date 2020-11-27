@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="models.HeroTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-27T07:24:52" hostname="wecode-VivoBook-15-ASUS-Laptop-X540UAR" time="0.001">
-  <properties/>
-  <testcase name="newHero_findById_id" classname="models.HeroTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
